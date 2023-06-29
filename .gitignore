@@ -1,0 +1,14 @@
+.vscode/
+.idea/
+
+.DS_Store
+*.so
+*.a
+*.o
+*.elf
+*.map
+*.dwarf
+*.log
+
+microwalk/results/
+microwalk/target-*
